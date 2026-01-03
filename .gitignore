@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.netrwhist
+.vimrc
+.lvimrc
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Lua
+*.luac
+
+# Development
+.nvimrc
+local/
