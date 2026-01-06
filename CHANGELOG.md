@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.0.0 (2026-01-06)
+
+
+### Features
+
+* initial mistral-codestral.nvim plugin release ([b08ff7b](https://github.com/jrollin/mistral-codestral.nvim/commit/b08ff7b46533f8272b2a3177b293276632084eef))
+* setup automated releases ([58728a9](https://github.com/jrollin/mistral-codestral.nvim/commit/58728a9aa3d46b20b40387615914fe0ef1c0868d))
+
+
+### Bug Fixes
+
+* resolve all luacheck warnings ([a290d6c](https://github.com/jrollin/mistral-codestral.nvim/commit/a290d6c681028a7222804639e8aaca3a4f631ddb))
+
 ## [Unreleased]
 
 ## [0.0.0] - 2026-01-03

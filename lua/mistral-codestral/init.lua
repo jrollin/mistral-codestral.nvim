@@ -2,7 +2,7 @@
 local M = {}
 
 -- Plugin version (managed by release-please)
-M.VERSION = "0.1.0" -- x-release-please-version
+M.VERSION = "1.0.0" -- x-release-please-version
 
 -- Default configuration
 local default_config = {
